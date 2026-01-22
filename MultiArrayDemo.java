@@ -1,4 +1,3 @@
-package Excercise;
 public class MultiArrayDemo {
 
     public static void main(String[] args) {

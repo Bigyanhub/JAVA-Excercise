@@ -1,4 +1,3 @@
-package Excercise;
 class Student {
     String name;
     int age;
